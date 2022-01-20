@@ -1,2 +1,2 @@
 # CRISTALGO
-trading website
+Sample Website
